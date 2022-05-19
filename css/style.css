@@ -1,0 +1,95 @@
+html {
+
+    background-color: black;
+    color: white
+
+}
+
+p {
+    color: white;
+
+}
+
+h1 {
+
+    margin-left: 45%;
+
+}
+
+h2 {
+
+    margin-left: 1%;
+    
+}
+
+nav {
+
+    background-color: green;
+
+}
+
+a {
+	margin-left: 10%;
+}
+
+nav a:link {
+
+    color: aqua;
+
+}
+
+nav a:visited {
+
+    color: white;
+
+}
+
+
+article {
+
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+form {
+
+    padding: 20px;    
+    border-style: solid;
+    border-color: green;
+    color: green;
+
+}
+
+form h2 {
+
+    color: white;
+    margin-left: 0%;
+
+}
+
+input[name=password] {
+    margin: 10px;
+    margin-left: 57px;
+}
+
+input[type=submit] {
+    margin-top: 15px;
+}
+
+table {
+    margin-top: 10px;
+    margin-right: 10px;
+    border-style: groove;
+    border-color:whitesmoke;
+}
+
+td {
+    border-style:solid;
+    padding: 20px;
+}
+table a {
+    font-size:small;
+    color:cadetblue;
+}
